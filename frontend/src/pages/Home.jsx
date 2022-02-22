@@ -18,7 +18,7 @@ function Home() {
        to ='/tickets' 
        className='btn btn-block'
        >
-         <FaTicketAlt/>Create new Ticket
+         <FaTicketAlt/>view tickets
       </Link>
      </section>
      </>
